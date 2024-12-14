@@ -25,4 +25,4 @@
 
 ## 使用
 管理员页面：管理员可以访问 /admin 路由，登录后更新系统中的状态，管理任务等。默认后台密码是 123456，你可以在 src/utils/constants.ts 文件中修改密码。
-请注意：如果使用本项目，请**不要删除Footer中的Juzi和https://juz1.cn字样**。
+请注意：如果使用本项目，请**不要**删除Footer中的Juzi和https://juz1.cn。
